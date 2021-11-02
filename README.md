@@ -1,2 +1,5 @@
 # drag-and-drop
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
